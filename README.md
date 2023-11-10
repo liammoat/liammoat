@@ -1,7 +1,19 @@
 # Hi there...
 
-- 🔭 I'm Liam
-- 💬 I do Dev stuff on Azure @ Microsoft
-- 🧑‍💻 I'm a developer at heart, solving problems in .NET
-- 🌱 I sometimes write things down: https://www.liammoat.com/blog/
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/liammoatcom/)
+Liam is an accomplished technical leader, Principal Engineer, and architect in the App Innovation team at Microsoft. He is broadly recognised as an industry expert across cloud native software engineering, application modernisation and developer productivity. 
+
+``` json
+{
+    "name": "Liam Moat",
+    "location": "United Kingdom",
+    "role": {
+        "title" "Principal Software Engineer",
+        "team": "ISE (Health)",
+        "company": "Microsoft"
+    },
+    "blog": "https://www.liammoat.com/blog/",
+    "linkedin": "liammoatcom"
+}
+```
+
+[Read more](https://www.liammoat.com/about/)
