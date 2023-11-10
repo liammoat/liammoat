@@ -7,7 +7,7 @@ Liam is an accomplished technical leader, Principal Engineer, and architect in t
     "name": "Liam Moat",
     "location": "United Kingdom",
     "role": {
-        "title" "Principal Software Engineer",
+        "title": "Principal Software Engineer",
         "team": "ISE (Health)",
         "company": "Microsoft"
     },
